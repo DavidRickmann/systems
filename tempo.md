@@ -3,7 +3,7 @@
 TickTalk (formerly named Tempo) is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
 in a way that tries to ensure everyone gets a chance to share their thoughts.
 TickTalk structures the conversation into a series of rounds, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
-Each round is 5-10 minutes, with a singlequestion defining the topic that round.
+Each round is 5-10 minutes, with a single question defining the topic that round.
 
 TickTalk started out as a fork of lean coffee, adapted to deal with my frustrations with the basic design of the system.
 It's *very much* still a work in progress.
